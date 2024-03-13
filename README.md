@@ -28,3 +28,5 @@ Code that’s execute
 
 Random(0,width) 0 being the minimum, width (of the canvas)
 Randomly locating lollipop  on canvas
+
+Web URL: https://taropie3sui.github.io/workshop-task-1/
